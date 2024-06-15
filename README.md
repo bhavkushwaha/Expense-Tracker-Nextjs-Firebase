@@ -9,7 +9,7 @@ Implemented using :
 
 **Important :** You may see the items you add vanishing on reload, although there is a firebase database connected to it at the backend but since it is a simple web application without any authentication, so making read and write public may invite unnecessary people who may write inappropriate stuff.
 <p>
-Therefore, it you clone the project and run it in test mode. Enter your credentials in the .env you made. Then the the project will work fine with the database allowing read and write operations on it.
+Therefore, it you clone the project and run it in test mode. Enter your credentials in the .env you made. Then the project will work fine with the database allowing read and write operations on it locally on your system.
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
