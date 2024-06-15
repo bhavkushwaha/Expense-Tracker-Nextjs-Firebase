@@ -108,6 +108,7 @@ export default function Home() {
             </div>
           )}
         </div>
+        <h4 className="text-xl p-6 text-center">Made with ❤️ by Bhav Kushwaha</h4>
       </div>
     </main>
   );
