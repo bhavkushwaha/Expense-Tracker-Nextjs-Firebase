@@ -11,6 +11,8 @@ Implemented using :
 <p>
 Therefore, it you clone the project and run it in test mode. Enter your credentials in the .env you made. Then the project will work fine with the database allowing read and write operations on it locally on your system.
 
+![alt text](image2.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
